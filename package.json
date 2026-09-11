@@ -1,0 +1,12 @@
+{
+  "name": "pacingloop",
+  "version": "0.1.0",
+  "description": "Real-time campaign pacing with robust seasonal baselines and a damped controller - so it never fires on a normal Saturday.",
+  "type": "module",
+  "private": true,
+  "engines": { "node": ">=22.6" },
+  "scripts": {
+    "test": "node --test",
+    "demo": "node src/demo.ts"
+  }
+}
