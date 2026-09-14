@@ -2,6 +2,22 @@
 
 > Real-time campaign pacing with robust seasonal baselines and a damped controller - so it never fires on a normal Saturday.
 
+## Live deployment
+
+[![CI and deployment](https://github.com/SlateGitOrg/pacingloop/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/SlateGitOrg/pacingloop/actions/workflows/ci.yml)
+
+[Open the interactive Pacing Loop demo](https://slategitorg.github.io/pacingloop/)
+
+The deployed interface uses a deterministic offline scenario to make the repository's tested decision rule visible without external services or private data.
+
+### Desktop
+
+![Pacing Loop desktop deployment](docs/assets/deployed-desktop.png)
+
+### Mobile
+
+<img src="docs/assets/deployed-mobile.png" alt="Pacing Loop mobile deployment" width="390">
+
 `FLAGSHIP` · **Marketing Analyst** · Advanced · ~4-5 weeks · Gaming - user acquisition for a live mobile title
 
 **Primary language:** TypeScript
